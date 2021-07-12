@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon-circle.png</file>
+        <file>icon-move.png</file>
+        <file>icon-rect.png</file>
+        <file>icon-triangle.png</file>
+    </qresource>
+</RCC>
